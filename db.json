@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Phone",
+      "createdAt": "1616346753759",
+      "updatedAt": "1616346753759"
+    },
+    {
+      "name": "Fixel 4",
+      "createdAt": 1643303453391,
+      "updatedAt": 1643303453391,
+      "id": 2
+    },
+    {
+      "name": "Jfold 3",
+      "createdAt": 1643303878336,
+      "updatedAt": 1643303878336,
+      "id": 3
+    },
+    {
+      "name": "Jfold 3",
+      "createdAt": 1643359185005,
+      "updatedAt": 1643359185005,
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "IPhone X",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 1,
+      "salePrice": 15000000
+    },
+    {
+      "id": 2,
+      "name": "IPhone 12 Pro Max",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 1,
+      "salePrice": 25000000
+    }
+  ],
+  "profile": {
+    "name": "Pro"
+  }
+}
